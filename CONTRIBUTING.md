@@ -1,1 +1,1 @@
-Please refer to https://github.com/cyole/contribute
+Please refer to https://github.com/antfu/contribute
